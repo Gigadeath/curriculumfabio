@@ -56,6 +56,10 @@ a, ::before {
     color: #BF6D4E !important;
 }
 
+.text-greenlight
+{
+    color: #B6E34D !important;
+}
 a:hover
 {
     background-color: #041840 !important;
