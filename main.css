@@ -248,6 +248,17 @@ a:hover
     padding-left: 0.5rem;
     border-left: 0.5rem solid#BF6D4E;
 }
+
+.courses
+{
+    padding: 1rem;
+    border-left: 0 solid #B6E34D;
+    transition: border-left 300ms ease-in-out, padding-left 300ms ease-in-out;
+}
+.courses:hover {
+    padding-left: 0.5rem;
+    border-left: 0.5rem solid#B6E34D;
+}
 /*fim - conteudo*/
 
 /* media */
